@@ -1,8 +1,8 @@
 # Content
 
 - [Summary Report](https://github.com/tanvirseraj/Restful-Booker-Performance-Testing#SummaryReport)
-- [Introduction](https://github.com/imranhasanraaz/jmeter-perfomance-testing#introduction)  
-- [Install](https://github.com/imranhasanraaz/jmeter-perfomance-testingstall)      
+- [Introduction](https://github.com/tanvirseraj/Restful-Booker-Performance-Testing#introduction)  
+- [Install](https://github.com/tanvirseraj/Restful-Booker-Performance-Testing)      
 - [Prerequisites](https://github.com/imranhasanraaz/jmeter-perfomance-testing#prerequisites)
 - [Elements of a Minimal Test Plan](https://github.com/imranhasanraaz/jmeter-perfomance-testing#Elements-of-a-minimal-test-plan)    
 - [Test Plan](https://github.com/imranhasanraaz/jmeter-perfomance-testing#test-plan)
